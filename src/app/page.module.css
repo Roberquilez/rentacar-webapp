@@ -1,0 +1,19 @@
+/* src/app/page.module.css */
+.fichaAlquiler {
+    margin: 20px 0;
+}
+
+.fichaAlquiler table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.fichaAlquiler th, .fichaAlquiler td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.fichaAlquiler th {
+    background-color: #f2f2f2;
+}
