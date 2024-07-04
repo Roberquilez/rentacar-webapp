@@ -29,4 +29,3 @@ function ClientesPage() {
     );
 }
 
-export default ClientesPage;

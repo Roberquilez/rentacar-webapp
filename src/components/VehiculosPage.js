@@ -30,4 +30,3 @@ function VehiculosPage() {
     );
 }
 
-export default VehiculosPage;

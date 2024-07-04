@@ -29,4 +29,3 @@ function AlquileresPage() {
     );
 }
 
-export default AlquileresPage;

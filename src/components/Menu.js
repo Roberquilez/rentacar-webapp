@@ -21,4 +21,3 @@ function BackofficeLayout() {
     );
 }
 
-export default BackofficeLayout;
