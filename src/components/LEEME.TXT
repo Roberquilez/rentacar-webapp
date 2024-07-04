@@ -1,2 +1,0 @@
-Usa esta carpeta para crear tus componentes React
- que se usarán en las distintas páginas
